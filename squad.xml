@@ -3,7 +3,7 @@
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
 
 <squad nick="GYPSY">
-	<name>Gypsy BAND</name>
+	<title>Gypsy BAND</title>
 	<web>vk.com/dayz_epoch_gypsy_band</web>
 	<picture>logo.paa</picture>
 	<member id="10226116" nick="Brian Frost">
