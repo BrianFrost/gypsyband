@@ -4,15 +4,15 @@
 
 <squad nick="GYPSY">
 	<name>Brian Frost</name>
-	<email></email>
+	<!-- <email></email> -->
 	<web>http://vk.com/dayz_epoch_gypsy_band</web>
 	<!--<picture>logo.paa</picture>-->
-	<picture></picture>
+	<!-- <picture></picture> -->
 	<title>Gypsy BAND</title>
 	<member id="10226116" nick="Brian Frost">
-		<name>Sergey</name>
-		<email></email>
-		<icq></icq>
-		<remark></remark>
+		<name>Sergey D</name>
+		<!-- <email></email> -->
+		<!-- <icq></icq> -->
+		<!-- <remark></remark> -->
 	</member>
 </squad>
